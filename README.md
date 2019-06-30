@@ -1,4 +1,7 @@
 Troop 322 SLO
 =============
 
-<meta name="google-site-verification" content="i966KmCToEbYTplpBi27HpSjDR7gn5RoCPMAN4iHM1Q" />
+
+222 Elks Lane
+San Luis Obispo, CA 93401
+USA
