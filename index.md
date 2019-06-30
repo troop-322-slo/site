@@ -1,10 +1,7 @@
 ---
-title: Troop 322
+title: BSA Troop 322
 layout: default
 ---
-
-Troop 322 SLO
-=============
 
 **Address**
 
